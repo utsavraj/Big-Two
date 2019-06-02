@@ -1,3 +1,4 @@
+
 |   Type of Hand                                               | No. of Cards   |
 |:-------------------------------------------------------------|:--------------:|
 | Flush,Full House, Straight Flush,Four of a Kind              | 5              |
