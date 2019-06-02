@@ -28,11 +28,11 @@ The basis of Big Two is a race to get rid of your cards. It supports 2, 3 or 4 p
 
 '*' = You must play a fifth card with four of a kind to make a legitimate five card poker hand.
 
-**The game consists of a number of hands, each consisting of a number of rounds. Each hand begins by the players being dealt 13 cards (deal passes to the left after each hand).**
+  **The game consists of a number of hands, each consisting of a number of rounds. Each hand begins by the players being dealt 13 cards   (deal passes to the left after each hand).**
 
 * The player who is dealt the 3 of Diamonds starts each hand (see below for how to discover this), and must make a play involving this card to begin the first round. For instance, they could just play the 3 of Diamonds as a single, or if they had a straight involving this 3, they could lead with that.
 
-**NOTE**: (If no-one has the 3 of Diamonds, the player with the next lowest card leads with that instead).
+  **NOTE**: (If no-one has the 3 of Diamonds, the player with the next lowest card leads with that instead).
 
 * Whichever type of play is led, the next player clockwise around the table must play a higher card (or combination of cards) of the same type – for instance, if the player with the 3 of Diamonds plays a pair of 3’s to start the round, the next player must play a pair of a higher value.
 
